@@ -1,0 +1,8 @@
+-https://python.plainenglish.io/automating-facebook-posts-with-python-using-selenium-7a7ffca0f325
+- https://unicode.org/emoji/charts/emoji-list.html
+
+
+FB API
+- https://developers.facebook.com/docs/groups-api/
+- https://developers.facebook.com/docs/pages/
+- https://developers.facebook.com/docs/graph-api/overview
